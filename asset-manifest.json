@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nirmal403.github.io/csb-ddrq0z/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nirmal403.github.io/csb-ddrq0z/static/js/main.9f57a86c.chunk.js",
+    "main.js.map": "https://nirmal403.github.io/csb-ddrq0z/static/js/main.9f57a86c.chunk.js.map",
+    "runtime-main.js": "https://nirmal403.github.io/csb-ddrq0z/static/js/runtime-main.63fc4efa.js",
+    "runtime-main.js.map": "https://nirmal403.github.io/csb-ddrq0z/static/js/runtime-main.63fc4efa.js.map",
+    "static/js/2.e417efee.chunk.js": "https://nirmal403.github.io/csb-ddrq0z/static/js/2.e417efee.chunk.js",
+    "static/js/2.e417efee.chunk.js.map": "https://nirmal403.github.io/csb-ddrq0z/static/js/2.e417efee.chunk.js.map",
+    "index.html": "https://nirmal403.github.io/csb-ddrq0z/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nirmal403.github.io/csb-ddrq0z/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e417efee.chunk.js.LICENSE.txt": "https://nirmal403.github.io/csb-ddrq0z/static/js/2.e417efee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63fc4efa.js",
+    "static/js/2.e417efee.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9f57a86c.chunk.js"
+  ]
+}
